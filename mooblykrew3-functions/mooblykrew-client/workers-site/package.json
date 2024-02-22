@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "Moobly Krew",
+  "main": "index.js",
+  "author": "John Scovell <john@mooblykrew.com>",
+  "license": "Moob",
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "~0.0.11"
+  }
+}
